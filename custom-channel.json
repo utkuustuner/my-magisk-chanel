@@ -1,11 +1,22 @@
-{ "app": { "version": "8.0.2", "versionCode": "307", "link": 
-"https://github.com/topjohnwu/Magisk/releases/download/manager-v8.0.2/MagiskManager-v8.0.2.apk",
- "note": 
-"https://raw.githubusercontent.com/topjohnwu/Magisk/master/app/src/main/res/raw/changelog.md"
- }, "uninstaller": { "link": "" }, "magisk": { "version": 
-"20.3-15bd2da8-phh", "versionCode": "20201", "link": 
-"https://sourceforge.net/projects/expressluke-gsis/files/Extras/phh-magisk-ten/Magisk-v20.3-15bd2da8-phh.zip/download",
- "md5": "1d66ec4d712dc04cfb18529ed6ef6659" }, "stub": { "versionCode": 
-"8", "link": 
-"https://github.com/topjohnwu/Magisk/releases/download/manager-v8.0.0/stub-release.apk"
- } }
+{
+  "app": {
+    "version": "8.0.3",
+    "versionCode": "314",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v8.0.3/MagiskManager-v8.0.3.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/Magisk@manager-v8.0.3/app/src/main/res/raw/changelog.md"
+  },
+  "stub": {
+    "versionCode": "14",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v8.0.3/stub-release.apk"
+  },
+  "uninstaller": {
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.1/Magisk-uninstaller-20201113.zip"
+  },
+  "magisk": {
+    "version": "0064b01a",
+    "versionCode": "21101",
+    "link": "https://sourceforge.net/projects/expressluke-gsis/files/Extras/phh-magisk-ten/Magisk-v20.3-15bd2da8-phh.zip/download",
+    "note": "https://topjohnwu.github.io/Magisk/releases/21100.md",
+    "md5": "000"
+  }
+}
