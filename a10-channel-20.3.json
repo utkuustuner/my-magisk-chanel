@@ -13,7 +13,7 @@
     "link": ""
   },
   "magisk": {
-    "version": "v20.3",
+    "version": "15bd2da8-phh",
     "versionCode": "20300",
     "link": "https://github.com/utkuustuner/magisk-channels/raw/main/Magisk-20300-15bd2da8-phh.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/20300.md",
