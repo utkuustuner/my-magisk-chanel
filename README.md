@@ -1,7 +1,7 @@
 # magisk-channels
 Main reason why I have this repo is magisk in recovery method being deprecated and me wanting to preserve the versions that worked best for me. It's for my personal use but feel free to use it if you want.
 
-a10 and debug channels are modified so keep that in mind while flashing
+A10 20.2 is recommended for initial booting of android 10 gsis.
 
 - 21.0 is minimum for android 11,
 - 19.4 is minimum for android 10 on a-only devices,
